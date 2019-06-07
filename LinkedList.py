@@ -4,7 +4,7 @@ class LinkedList:
     def __init__(self):
         self.head = None
         self.size=0
-    def addNodeAscendingt(self,data):
+    def addNodeAscending(self,data):
         # 1. Create new Node
         newNode = node.SinglyNode(data)
         # 2. Add Node to the head
